@@ -1,3 +1,29 @@
+## 1.1.1 (2023-05-17)
+
+### Bug fixes
+
+Make the return type of \`builders\` include properties for schema node/mark names.
+
+Include CommonJS type declarations in the package to please new TypeScript resolution settings.
+
+## 1.1.0 (2022-05-30)
+
+### New features
+
+Include TypeScript type declarations.
+
+## 1.0.6 (2022-03-29)
+
+### Bug fixes
+
+Make it possible to specify multiple marks of the same type for a given piece of content.
+
+## 1.0.5 (2021-10-14)
+
+### Bug fixes
+
+Go back to regular dependencies, so that the package works on NPM <7.
+
 ## 1.0.4 (2021-04-27)
 
 ### Bug fixes
